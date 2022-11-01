@@ -2,9 +2,9 @@ let configs = (function () {
   'use strict';
 
   // Authentication and channels
-  const channel = 'matjazh2'; // your channel
-  const username = 'matjazh2'; // bot account
-  const oauth = 'oauth:zpnwh6h2an2yzvkzvwkjfovxdgzy8t'; // should be oauth:xxxxxxxxxxxx from the bot account
+  const channel = 'channel'; // your channel
+  const username = 'bot'; // bot account
+  const oauth = 'oauth:'; // should be oauth:xxxxxxxxxxxx from the bot account
 
   // Styling - required
   const height = '250px';
